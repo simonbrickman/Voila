@@ -1,6 +1,5 @@
 ipywidgets
-matplotlib.pyplot
-matplotlib.ticker
+matplotlib
 numpy
 numba
 pandas
