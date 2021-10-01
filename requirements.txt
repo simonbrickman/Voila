@@ -1,6 +1,4 @@
-ipywidgets
 matplotlib
 numpy
 numba
-pandas
 voila
