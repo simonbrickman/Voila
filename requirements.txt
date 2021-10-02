@@ -2,4 +2,4 @@ ipywidgets
 matplotlib
 numpy
 numba
-voila=0.2.15
+voila==0.2.15
